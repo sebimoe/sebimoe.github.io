@@ -1,0 +1,1 @@
+import{_ as n}from"./Heading.vue.C_vfbu9j.js";import{_ as c}from"./ProjectList.BdtCympG.js";import{_ as r,c as _,b as o,F as s,o as a}from"./entry.iI9Zyyml.js";import"./nuxt-link.89Tu81xv.js";const m={};function i(p,f){const t=n,e=c;return a(),_(s,null,[o(t,{text:"Projects",noMarginTop:""}),o(e)],64)}const g=r(m,[["render",i]]);export{g as default};
