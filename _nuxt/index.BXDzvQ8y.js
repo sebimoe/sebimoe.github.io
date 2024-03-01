@@ -1,0 +1,1 @@
+import{n as t,c,a as n,F as _,o as a,_ as r}from"./entry.DDJE2Rwl.js";import{_ as s}from"./ProjectList.D67fApJb.js";const m={};function i(p,f){const e=r,o=s;return a(),c(_,null,[n(e,{text:"Projects",noMarginTop:""}),n(o)],64)}const x=t(m,[["render",i]]);export{x as default};

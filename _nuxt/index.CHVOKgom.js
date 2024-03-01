@@ -1,0 +1,1 @@
+import{s as l,z as m}from"./entry.DDJE2Rwl.js";function f(e,a){const{title:r,titleTemplate:s,...n}=e;return l({title:r,titleTemplate:s,_flatMeta:n},{...a,transform(t){const o=m({...t._flatMeta});return delete t._flatMeta,{...t,meta:o}}})}export{f as u};
